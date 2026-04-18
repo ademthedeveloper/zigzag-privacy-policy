@@ -1,0 +1,13 @@
+# app-ads.txt Example File
+# 
+# When your AdSense account is set up, you will receive the necessary ads.txt code.
+# Copy that code here and rename this file to app-ads.txt
+#
+# Format:
+# <publisher_domain.com>, <direct_publisher_id>, <certification_authority_id>, <relationship_type>, <certification_auth_id>
+#
+# Example (replace with your actual data when you get it from AdSense):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# For more information about app-ads.txt and Google Play, visit:
+# https://support.google.com/googleplay/android-developer/answer/10788723
